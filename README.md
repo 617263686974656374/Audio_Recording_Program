@@ -70,10 +70,6 @@ Audio is streamed directly from the microphone to the speakers without being sav
 
 ---
 
-## Troubleshooting
-
-### FFmpeg Not Found
-- Verify that the path to `ffmpeg.exe` is correctly set in the `get_ffmpeg_path` function.
 
 
 
