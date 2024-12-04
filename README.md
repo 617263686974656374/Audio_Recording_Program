@@ -61,14 +61,6 @@ Audio is streamed directly from the microphone to the speakers without being sav
            └── ffmpeg.exe
    ```
 
-3. Use the following command to create the .exe:
-   ```bash
-   pyinstaller --onefile --add-data "ffmpeg/bin/ffmpeg.exe;ffmpeg/bin" audio.py
-   ```
-
-4. The resulting `.exe` file will be located in the `dist/` folder.
-
----
 
 
 
